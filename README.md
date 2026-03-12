@@ -16,10 +16,11 @@ I believe that good software is not just about writing code, but about designing
 I approach every project as a puzzle to be solved. Whether it's a financial calculator or a backend roadmap, my goal is always the same: **simplicity and performance**.
 
 ### Let's Connect
-* **Portfolio**: [gabrielblanc0o.github.io]([https://gabrielblanc0o.github.io/](https://gabrielblanc0o.github.io/GabrielBlanc0o/)) (Certifications & detailed projects)
+* **Portfolio**: [gabrielblanc0o.github.io]([https://gabrielblanc0o.github.io/GabrielBlanc0o/) (Certifications & detailed projects)
 * **Email**: gabrieltarazonablanco@gmail.com
 * **LinkedIn**: (https://www.linkedin.com/in/gabrielblancot/)
 
 ---
 *"The only way to learn a new programming language is by writing programs in it."* — Dennis Ritchie
+
 
