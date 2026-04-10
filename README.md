@@ -4,10 +4,7 @@ I am a Software Engineering student at **Universidad de La Salle** in Bogotá.
 
 I believe that good software is not just about writing code, but about designing systems that are logical, efficient, and easy to maintain. My journey in technology is driven by a constant curiosity to understand how things work under the hood.
 
-### About Me
-* 🔭 **Currently focusing on**: Backend architecture and the internal logic of scalable systems.
-* 🐍 **Python enthusiast**: I enjoy using Python to automate complex tasks and build logic engines.
-* ☕ **Java learner**: Exploring the world of strongly typed languages and data structures.
+*  **Java  and C++ learner**: Exploring the world of strongly typed languages and data structures.
 * 🐧 **Linux user**: I feel most at home in a terminal environment.
 
 ### My Philosophy
