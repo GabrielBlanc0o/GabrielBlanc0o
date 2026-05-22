@@ -22,4 +22,4 @@ Mi objetivo es incorporarme a un equipo técnico donde pueda aportar valor inmed
 ###  Conectemos
 
 - **Portafolio & Certificaciones:** [gabrielblanc0o.github.io](https://gabrielblanc0o.github.io/GabrielBlanc0o/)
-- **LinkedIn:** [Mi Perfil Profesional](https://www.linkedin.com/) *(Agrega aquí el link de tu perfil)*
+- **LinkedIn:** [Mi Perfil Profesional]([https://www.linkedin.com/in/gabrielblancot/)) ) 
