@@ -1,6 +1,9 @@
 # Gabriel Blanco 🇨🇴
 
-### Backend Developer | Software Engineering Student
+### Backend Developer |
+
 LaSalle
+
+Estudiante Ing. Software · Java & Spring Boot · La Salle Bogotá.
 
 Coco Lover 😻
